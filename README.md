@@ -1,1 +1,1 @@
-# Yolov5
+# Trash Classification CNNs
